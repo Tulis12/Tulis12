@@ -1,4 +1,5 @@
 👋 Hejka jestem @Tulis!
+
 ✅ Potrfię: 
 - Pisać boty na discorda
 - Konfigurować pluginy
