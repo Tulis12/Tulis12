@@ -1,1 +1,1 @@
-Toksik, programuje ale często mu to nie wychodzi ;O
+![Profile info](profileInfo.png)
