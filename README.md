@@ -1,1 +1,1 @@
-![Profile info](profileInfoV2.png)
+![Profile info](profileInfoV3.png)
